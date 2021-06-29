@@ -1,0 +1,15 @@
+1]  https://www.nature.com/articles/s41467-020-18297-9
+
+
+Sensitivity / Recall =Recall = TP / (TP +FN)
+
+Specificity = TN/ (TN+FP)
+
+Precision = TP / (TP + FP)
+
+=============
+Why did you choose israel's data to study purpose ?
+purpose of risk coeff.?
+how did you get to this values of coefficents ?
+As you mentioned in the Objective, that this result may help Doctors to treat the patients with high risk on a priority basis.?
+Is there any threshold value of of risk.?
