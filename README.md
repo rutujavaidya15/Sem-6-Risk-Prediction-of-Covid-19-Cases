@@ -1,5 +1,7 @@
 # Sem-6-Risk-Prediction-of-Covid-19-Cases
- MiniProj | Domain: Machine Learning & Data Science
+ MiniProj | Domain: Machine Learning & Data Science | [Risk Predictor](https://covid-risk-predictor-1.riskycovid19.repl.co/)
+ 
+ 
  
 ### [Israel Dataset](https://data.gov.il/dataset/covid-19/resource/d337959a-020a-4ed3-84f7-fca182292308)
 
